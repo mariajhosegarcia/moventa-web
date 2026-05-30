@@ -1,0 +1,33 @@
+{
+  "name": "moventa-web",
+  "version": "1.0.0",
+  "description": "Web de sistema de ventas online para pequeños negocios (Moventa).",
+  "keywords": [
+    "vue3"
+  ],
+  "homepage": "https://github.com/mariajhosegarcia/moventa-web#readme",
+  "bugs": {
+    "url": "https://github.com/mariajhosegarcia/moventa-web/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mariajhosegarcia/moventa-web.git"
+  },
+  "private": true,
+  "license": "UNLICENSED",
+  "author": "María Jhosé García Munguía",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.5.34"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^6.0.6",
+    "vite": "^8.0.12"
+  }
+}
